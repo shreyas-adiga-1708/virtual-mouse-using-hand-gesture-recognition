@@ -41,21 +41,21 @@ Developed a **Virtual Mouse system** enabling touchless computer interaction usi
 <table align="center">
   <tr>
     <td align="center">
-      <img src="snapshots/Demo1.png" width="250"/><br/>
+      <img src="snapshots/Demo1.png" width="230"/><br/>
       <strong>Cursor Movement</strong>
     </td>
     <td align="center">
-      <img src="snapshots/Demo2.png" width="250"/><br/>
+      <img src="snapshots/Demo2.png" width="230"/><br/>
       <strong>No Action</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="snapshots/Demo3.png" width="250"/><br/>
+      <img src="snapshots/Demo3.png" width="230"/><br/>
       <strong>Left Click</strong>
     </td>
     <td align="center">
-      <img src="snapshots/Demo4.png" width="250"/><br/>
+      <img src="snapshots/Demo4.png" width="230"/><br/>
       <strong>Right Click</strong>
     </td>
   </tr>
