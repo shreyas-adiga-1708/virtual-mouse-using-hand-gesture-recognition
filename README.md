@@ -38,15 +38,28 @@ Developed a **Virtual Mouse system** enabling touchless computer interaction usi
 - **Middle Finger** → Left Click  
 - **Index Finger** → Right Click  
 
-<p align="center">
-  <img src="snapshots/Demo 1.png" width="250"/>
-  <img src="snapshots/Demo 2.png" width="250"/>
-</p>
-
-<p align="center">
-  <img src="snapshots/Demo 3.png" width="250"/>
-  <img src="snapshots/Demo 4.png" width="250"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="snapshots/Demo 1.png" width="250"/><br/>
+      <strong>Cursor Movement</strong>
+    </td>
+    <td align="center">
+      <img src="snapshots/Demo 2.png" width="250"/><br/>
+      <strong>No Action</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="snapshots/Demo 3.png" width="250"/><br/>
+      <strong>Left Click</strong>
+    </td>
+    <td align="center">
+      <img src="snapshots/Demo 4.png" width="250"/><br/>
+      <strong>Right Click</strong>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Outcome
 Developed an efficient, gesture-controlled system demonstrating strong expertise in **computer vision, real-time processing, and problem-solving**, with practical applications in accessibility and touchless computing.
