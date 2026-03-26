@@ -35,8 +35,8 @@ Developed a **Virtual Mouse system** enabling touchless computer interaction usi
 
 - **Index + Middle Finger** → Cursor Movement  
 - **Open Palm (All Fingers)** → No Action  
-- **Middle Finger** → Right Click  
-- **Index Finger** → Left Click  
+- **Middle Finger** → Left Click  
+- **Index Finger** → Right Click  
 
 <p align="center">
   <img src="snapshots/Demo 1.png" width="250"/>
