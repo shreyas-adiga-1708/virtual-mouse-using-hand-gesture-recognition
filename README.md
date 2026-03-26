@@ -10,7 +10,19 @@ Developed a **Virtual Mouse system** enabling touchless computer interaction usi
 - Enhanced usability with smooth and stable cursor control  
 
 ## 🛠️ Tech Stack
-**Python, OpenCV, MediaPipe, PyAutoGUI**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
+  <img src="" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
+</p>
+
+<p align="center">
+  <strong>Python</strong> &nbsp;&nbsp;&nbsp;
+  <strong>OpenCV</strong> &nbsp;&nbsp;&nbsp;
+  <strong>MediaPipe</strong> &nbsp;&nbsp;&nbsp;
+  <strong>PyAutoGUI</strong>
+</p>
 
 ## 🎯 Outcome
 Developed an efficient, gesture-controlled system demonstrating strong expertise in **computer vision, real-time processing, and problem-solving**, with practical applications in accessibility and touchless computing.
